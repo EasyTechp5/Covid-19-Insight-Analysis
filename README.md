@@ -61,3 +61,9 @@ Based on the findings and conclusions from the Covid-19 data analysis project, s
 
 - Enhance Data Analysis and Modeling: Invest in data analysis and modeling capabilities to improve our understanding of disease transmission, predict future outbreaks, and evaluate the impact of different interventions.
 
+Thank you
+
+![](Stay_safe.jfif)
+
+
+You can connect with me on LinkedIn [Here](https://www.linkedin.com/in/israelafolabieasytech/)
