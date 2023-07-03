@@ -5,7 +5,7 @@
 Covid-19 Insights Analysis is one of the most popular Power BI project ideas among individuals. The project aims to thoroughly overview the pandemic's essential parameters, the latest situation, and detailed country-level evaluations.
 
 
-*_**Disclaimer**: All dataset and report do not represent any institution but just a dummy dataset to demonstrate the capabilities of Power BI_*
+*_**Disclaimer**: _All dataset and report do not represent any institution but just a dummy dataset to demonstrate the capabilities of Power BI_*
 
 ## Problem Statement
 - What is the average number of total cases across all countries?
